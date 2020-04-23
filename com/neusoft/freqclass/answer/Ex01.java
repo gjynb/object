@@ -7,8 +7,6 @@ public class Ex01 {
         Integer in = new Integer("2");
         String str = new String("2.3");
         StringBuffer bf = new StringBuffer("2.3");
-        //可以直接运算：System.out.println(dou+in);
-		
         String dou1 = dou.toString();
         String in1 = in.toString();
         String bf1 = bf.toString();
